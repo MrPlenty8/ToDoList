@@ -8,7 +8,7 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background: #232121; /* Dark background */
+    background: #403d3d; /* Dark background */
     display: flex;
     justify-content: center;
     align-items: center;
