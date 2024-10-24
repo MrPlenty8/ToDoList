@@ -2,7 +2,7 @@
 
 ![ToDoApp](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-A **simple** and **intuitive** To-Do List web application built with **HTML**, **CSS**, and **JavaScript**. This project helps users organize their tasks efficiently by creating, updating, and deleting tasks from a dynamic to-do list.
+A **simple** and **intuitive** To-Do List web application built by Inacio Quinzage Tshisumpa **HTML**, **CSS**, and **JavaScript**. This project helps users organize their tasks efficiently by creating, updating, and deleting tasks from a dynamic to-do list.
 
 ---
 
@@ -31,10 +31,3 @@ A **simple** and **intuitive** To-Do List web application built with **HTML**, *
 
 ---
 
-## 🚀 Installation
-
-To get this project running locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/todo-list-app.git
